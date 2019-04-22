@@ -17,6 +17,11 @@ pwgen #
 Replace # with the number of characters to generate. To keep the executable on the path between
 terminal sessions, add the export command to the end of the bashrc file or equivalent.
 
+Disclaimer
+--------------------
+This codes does not guarantee secure random sequence generation or secure password generation. It is
+provided as-is with no implied liability.
+
 License
 --------------------
 This code is licensed under the Creative Commons Attribution 4.0 International License.
